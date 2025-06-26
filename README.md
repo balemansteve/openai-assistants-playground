@@ -6,11 +6,23 @@ Este repositorio contiene pruebas y experimentos con la API de OpenAI Assistants
 
 Explorar el funcionamiento y capacidades de los asistentes de OpenAI mediante casos de uso prácticos y variados, incluyendo automatización de tareas, respuestas contextualizadas y consultas especializadas.
 
+## 🛠️ Tecnologías utilizadas
+**Lenguaje de programación:** Python
+
+**Framework:** FastAPI
+
+**Servidor ASGI:** Uvicorn
+
+**APIs externas:** OpenAI API
+
+**Control de versiones:** Git y GitHub
+
 ## 📁 Estructura
 
 openai-assistants-playground/  
 ├── assistant-one/ # Primer asistente para pruebas  
 ├── shared/ # Funciones y configuraciones reutilizables  
+├── requirements.txt  # Dependencias  
 └── README.md  
 
 
